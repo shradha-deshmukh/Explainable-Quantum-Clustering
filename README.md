@@ -1,1 +1,2 @@
 # Explainable-Quantum-Clustering
+Suppose a doctor intends to proceed with a treatment plan based on a diagnosis predicted by a quantum machine learning model. In that case, it is crucial to understand the justifications for the predictions. Doctors with domain expertise may also uncover flaws in predictions made by quantum machine learning models with the aid of such understanding. Multiple approaches are possible to do this. Explainable quantum clustering is one of the techniques.
